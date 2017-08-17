@@ -1,0 +1,19 @@
+.formField {
+  height: 50px;
+  width: 800px;
+  float: left;
+  margin-left: 200px;
+}
+
+.container {
+  display: inline-block;
+}
+
+.searchFilter {
+  margin-right: 150px;
+}
+
+.tably {
+  margin: 0px auto;
+  width: 800px;
+}
